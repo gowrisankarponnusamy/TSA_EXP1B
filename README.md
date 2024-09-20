@@ -5,7 +5,7 @@
  
 
 ### AIM:
-To perform regular differncing,seasonal adjustment and log transformatio on international airline passenger data
+To perform regular differncing,seasonal adjustment and log transformatio on MentalHealthSurvey data
 ### ALGORITHM:
 1. Import the required packages like pandas and numpy
 2. Read the data using the pandas
@@ -65,5 +65,5 @@ SEASONAL ADJUSTMENT:
 ![image](https://github.com/user-attachments/assets/46f0d953-5f5f-4863-b5a6-e572cd3e8195)
 
 ### RESULT:
-Thus we have created the python code for the conversion of non stationary to stationary data on international airline passenger
+Thus we have created the python code for the conversion of non stationary to stationary data on MentalHealthSurvey
 data.
